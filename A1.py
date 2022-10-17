@@ -54,4 +54,6 @@ with open('json_sample.txt') as f:
     ##
     for w in sortedWords:
         print(w, " -ps- ", ps.stem(w), " -ls- ", ls.stem(w))
-        
+    
+
+#Hey Hamdia
